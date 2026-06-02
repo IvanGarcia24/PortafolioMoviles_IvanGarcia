@@ -1,0 +1,30 @@
+# ==========================================
+# REGLAS GLOBALES PARA EL PORTAFOLIO COMPLETO
+# ==========================================
+
+# Ignorar las carpetas pesadas de compilación en TODOS los subproyectos
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/.pub/
+
+# Ignorar dependencias de plugins de Flutter
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# Ignorar archivos de configuración de editores (VS Code, Android Studio, IntelliJ)
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Ignorar archivos temporales del sistema operativo
+**/.DS_Store
+**/Thumbs.db
+
+# Archivos de logs y crash reports
+**/*.log
+**/flutter_export_environment.sh
+
+# (Opcional) Puedes descomentar la siguiente línea si no quieres subir la configuración de tu VS Code local
+# **/.vscode/
