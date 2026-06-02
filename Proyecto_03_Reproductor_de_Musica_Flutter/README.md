@@ -124,7 +124,7 @@ lib/
 ### Pantalla Inicial
 
 <div align="center">
-<img src="capturas/app_inicio.png" width="280">
+<img src="Capturas/app_inicio.png" width="280">
 </div>
 
 <p align="center">
@@ -136,7 +136,7 @@ Interfaz inicial del reproductor antes de iniciar la reproducción.
 ### Reproducción en Curso
 
 <div align="center">
-<img src="capturas/app_reproduciendo.png" width="280">
+<img src="Capturas/app_reproduciendo.png" width="280">
 </div>
 
 <p align="center">
@@ -151,7 +151,7 @@ Estado de la aplicación mientras se reproduce el archivo de audio.
 
 | Pantalla Inicial                                | Reproducción Activa                                    |
 | ----------------------------------------------- | ------------------------------------------------------ |
-| <img src="capturas/app_inicio.png" width="250"> | <img src="capturas/app_reproduciendo.png" width="250"> |
+| <img src="Capturas/app_inicio.png" width="250"> | <img src="Capturas/app_reproduciendo.png" width="250"> |
 
 </div>
 

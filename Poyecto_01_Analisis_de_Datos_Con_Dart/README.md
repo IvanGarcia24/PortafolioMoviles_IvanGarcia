@@ -89,11 +89,11 @@ Construcción del ciclo de vida del programa mediante un ciclo infinito `while` 
 
 | Carga de Datos y Menú (Evidencia I y IV) | Búsqueda y Filtrado (Evidencia II) |
 | :---: | :---: |
-| <img src="capturas/evidencia_menu.png" width="350"> | <img src="capturas/evidencia_filtro.png" width="350"> |
+| <img src="Capturas/evidencia_menu.png" width="350"> | <img src="Capturas/evidencia_filtro.png" width="350"> |
 
 | Exportación de Estadísticas (Evidencia III) | Archivo JSON Generado |
 | :---: | :---: |
-| <img src="capturas/evidencia_exportacion.png" width="350"> | <img src="capturas/evidencia_json.png" width="350"> |
+| <img src="Capturas/evidencia_exportacion.png" width="350"> | <img src="Capturas/evidencia_json.png" width="350"> |
 
 *(Nota: Asegúrate de renombrar tus fotos en la carpeta `capturas` para que coincidan con estos nombres, o cambia los nombres aquí en el código).*
 
